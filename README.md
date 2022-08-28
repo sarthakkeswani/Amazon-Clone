@@ -1,3 +1,6 @@
+URL to access:
+  https://clone-sk-503fc.web.app/
+
 #For local access: 
 
 #Download the code
@@ -25,6 +28,3 @@ npm i @stripe/react-stripe-js
 npm i react-currency-format --save --force
 
 #now run the app using npm start
-
-URL to access:
-  https://clone-sk-503fc.web.app/
